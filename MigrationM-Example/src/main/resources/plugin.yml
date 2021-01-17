@@ -1,0 +1,3 @@
+main: nl.martenm.migrationm.example.ExamplePlugin
+version: 1.0.0
+name: "MigrationM-Example"
