@@ -57,7 +57,7 @@ migrationManager = new MigrationM(
                 new ProgramInfo("Name", "1.0.0", logger),
                 new SQLDatabaseManager(dataSource));
 
-igrationManager.loadMigrations("migrations", ExamplePlugin.class);
+migrationManager.loadMigrations("migrations", ExamplePlugin.class);
 boolean success = migrationManager.migrate();
 ```
 
