@@ -4,6 +4,7 @@ A simple migration manager for Java applications.
 ### ⭐ Features
 * Makes updating a database easy.
 * Pure .sql files (or any other extension)
+* Don't bother users with executing queries manually
 * Simple way to store migrations in the resource folder
 * (Possible) support for different databases
 
