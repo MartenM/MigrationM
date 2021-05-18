@@ -12,4 +12,12 @@
         <module>MigrationM-Base</module>
         <module>MigrationM-SQL</module>
     </modules>
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/MartenM/MigrationM</url>
+        </repository>
+    </distributionManagement>
 </project>
