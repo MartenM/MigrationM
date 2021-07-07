@@ -25,7 +25,7 @@ A basic rundown can be read here.
 #### 1. Create the migrations
 Create a folder in your resource folder. For this example we will use the folder name `migrations`.
 
-After creating the folder create your migrations and put them into the folder. The name of the migrations HAS to be the following format: `yyyy-m-d-hh:mm-description.extension`. The `-description` part is not required but recommended.
+After creating the folder create your migrations and put them into the folder. The name of the migrations HAS to be the following format: `yyyy-m-d-hh.mm-description.extension`. The `-description` part is not required but recommended.
 
 #### 2. Add the maven dependencies to your project
 Base module required for basic functionalities:
