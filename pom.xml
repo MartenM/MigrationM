@@ -11,6 +11,7 @@
     <modules>
         <module>MigrationM-Base</module>
         <module>MigrationM-SQL</module>
+        <module>MigrationM-SQLite</module>
     </modules>
 
     <distributionManagement>
